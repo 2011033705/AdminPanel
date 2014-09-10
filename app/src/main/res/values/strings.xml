@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AdminPanel</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_list">List</string>
+    <string name="title_activity_highlights">Highlights</string>
+    <string name="title_activity_schedule">Schedule</string>
+    <string name="title_activity_lineup">LIneup</string>
+    <string name="title_activity_playerofthe_game">Player of the Game</string>
+    <string name="title_activity_scores">Scores</string>
+
+</resources>
